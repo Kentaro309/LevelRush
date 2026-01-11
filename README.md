@@ -1,2 +1,2 @@
-## 🎮 Download Build
-[**➡️ Download LevelRush (Windows Build)**](https://github.com/Kentaro309/LevelRush/releases/latest)
+## Download Build
+[**LevelRush (Windows)**](https://github.com/Kentaro309/LevelRush/releases/latest)
