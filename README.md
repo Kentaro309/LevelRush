@@ -16,7 +16,7 @@ This project demonstrates my ability to build a complete gameplay loop using Unr
 
 ## Technical Overview
 
-### 🔧 Core Contributions
+### Core Contributions
 - **Designed and implemented all gameplay systems** using Unreal Engine Blueprints  
 - **Constructed 6 progressively complex rooms** with unique hazards, enemy patterns, and triggers  
 - **Created modular, data-driven turret AI** (4 behavior types + boss variant)  
@@ -31,14 +31,14 @@ This project is built entirely with **Blueprints**, organized with clear state-b
 
 ## System Architecture
 
-### 🎮 Player Systems
+### Player Systems
 - **Third-person movement**: sprint, jump, crouch  
 - **Modular gun system** using Blueprint functions + collision handling  
 - **Damage system** using overlap/trace events  
 - **Character animation blueprint** linked to movement states  
 - **Player health component** with UI binding and death handling  
 
-### 🤖 Enemy AI (Turrets)
+### Enemy AI (Turrets)
 - Fully implemented in Blueprints  
 - **Line-of-sight check** (stop firing behind walls)  
 - **Rotational tracking** using timelines & interpolation  
@@ -50,7 +50,7 @@ This project is built entirely with **Blueprints**, organized with clear state-b
   - Level 3 – wide bullet-wall pattern  
   - Boss – high fire rate, 8 HP, arena pressure design  
 
-### 🧱 Level Scripting & Mechanics
+### Level Scripting & Mechanics
 - **Six-room progression system**:
   - Each room unlocks on completion trigger  
   - Increasing mechanical + combat complexity  
@@ -65,7 +65,7 @@ This project is built entirely with **Blueprints**, organized with clear state-b
   - Hidden trap triggers (Room 5)  
 - **Room logic** implemented with event dispatchers, triggers, and timelines
 
-### 🖥 Menus & UI
+### Menus & UI
 - **Main menu** with:
   - Play  
   - Infinite Health mode (testing)  
