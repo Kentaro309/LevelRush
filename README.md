@@ -7,7 +7,7 @@ This project demonstrates my ability to build a complete gameplay loop using Unr
 
 ## Download (Windows Build)
 **Playable Build (Windows x64):**  
-[Download Level Rush](https://github.com/Kentaro309/LevelRush/releases/latest)
+[Latest Release](https://github.com/Kentaro309/LevelRush/releases/latest)
 
 **Gameplay Video:**  
 (Insert YouTube link here)
