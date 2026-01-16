@@ -10,7 +10,7 @@ This project demonstrates my ability to build a complete gameplay loop using Unr
 [Latest Release](https://github.com/Kentaro309/LevelRush/releases/latest)
 
 **Gameplay Video:**  
-(https://www.youtube.com/watch?v=-dRomRy_nTQ)
+[(https://img.youtube.com/watch?v=-dRomRy_nTQ/0.jpg)](https://www.youtube.com/watch?v=-dRomRy_nTQ)
 
 ---
 
