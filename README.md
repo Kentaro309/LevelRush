@@ -19,6 +19,7 @@ gameplay loop using Unreal Engine Blueprints.
 - Wipe-wall pressure mechanic enforcing forward momentum
 - Component-based player systems (movement, combat, health)
 - UI systems: HUD, menus, pause, death handling
+- Implemented animation state machine (idle / run / jump / fall) synchronized with player movement
 
 ## Technologies
 - Unreal Engine 5 (Blueprints)
