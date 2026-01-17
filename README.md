@@ -1,6 +1,6 @@
-# Level Rush – Unreal Engine 5 Blueprint Systems Project
+# Level Rush – Unreal Engine Project
 
-**Level Rush** is a solo-developed Unreal Engine 5 project focused on systems design, blueprint architecture, modular gameplay features, and level scripting.  
+**Level Rush** is a solo-developed Unreal Engine project focused on systems design, blueprint architecture, modular gameplay features, and level scripting.  
 This project demonstrates my ability to build a complete gameplay loop using Unreal Blueprints—including AI behavior, combat systems, UI, level progression, and gameplay mechanics.
 
 ---
