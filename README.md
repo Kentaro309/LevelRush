@@ -1,4 +1,4 @@
-# Level Rush – Unreal Engine 5 (Blueprints)
+# Level Rush – Unreal Engine (Blueprints)
 
 **Level Rush** is a solo-developed third-person action prototype focused on
 gameplay systems, Blueprint architecture, modular AI, and level scripting.
@@ -9,8 +9,8 @@ gameplay loop using Unreal Engine Blueprints.
 ## Gameplay
 [![Thumbnail](https://img.youtube.com/vi/-dRomRy_nTQ/sddefault.jpg)](https://www.youtube.com/watch?v=-dRomRy_nTQ)
 
-# Level Rush – Unreal Eng## Download
-[Windows x64](https://github.com/Kentaro309/LevelRush/releases/latest)ine 5 (Blueprints)
+# Download
+[Windows x64](https://github.com/Kentaro309/LevelRush/releases/latest)
 
 ## Technical Highlights
 - Built all gameplay systems solo using Unreal Engine **Blueprints**
